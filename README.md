@@ -49,7 +49,13 @@ programs can be greatly improved.
     $ swipl -s chapter1-5.pl -g "permutation([a,b,c,d], P)"
 
 
-Book Excercises can be found here: [https://github.com/dc-mak/Prolog](https://github.com/dc-mak/Prolog)
+**Book Excercises can be found here:** 
+- [https://github.com/dc-mak/Prolog](https://github.com/dc-mak/Prolog)
+- [https://github.com/okanvk/Prolog-Exercises](https://github.com/okanvk/Prolog-Exercises)
+
+
+**Other good examples:**
+- [https://github.com/Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples)
 
 ---
 [1] Ivan Bratko. Prolog Programming for Artificial Intelligence, 1986
