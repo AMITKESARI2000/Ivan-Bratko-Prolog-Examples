@@ -48,6 +48,10 @@ programs can be greatly improved.
     $ swipl -s chapter1-5.pl -g "solution3(12,S)"
     $ swipl -s chapter1-5.pl -g "permutation([a,b,c,d], P)"
 
+
+Book Excercises can be found here: [https://github.com/dc-mak/Prolog](https://github.com/dc-mak/Prolog)
+
+---
 [1] Ivan Bratko. Prolog Programming for Artificial Intelligence, 1986
 
     @book{Bratko:1986:PPA:6981,
@@ -58,4 +62,5 @@ programs can be greatly improved.
         publisher = {Addison-Wesley Longman Publishing Co., Inc.},
         address = {Boston, MA, USA},
     }
+    
     
